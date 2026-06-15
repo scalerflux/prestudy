@@ -21,6 +21,7 @@ This project implements a structural 4-bit Ripple Carry Adder in Logisim-Evoluti
 Below is the animated demonstration showing the circuit solving math operations and handling integer overflows:
 
 
+<img width="1918" height="1032" alt="20260615-1425-52 5004843-ezgif com-optimize" src="https://github.com/user-attachments/assets/29700c66-eacc-413c-b1c0-31b8a5333033" />
 
 
 
