@@ -26,3 +26,8 @@ Built in Logisim-Evolution using a **modular subcircuit** approach:
 
 ### 5. Subcircuit Demo
 ![Subcircuit Demo](subcircuit_demo.gif)
+
+### 6. Tube Decoder
+A vacuum-tube-style implementation of the same 2-to-4 decoder logic, built in Logisim-Evolution (`tube_decoder.circ`). This variant replaces transistor-based gates with relay/tube equivalents while preserving identical decode behaviour.
+
+![Tube Decoder Demo](tube_Decoder.gif)
